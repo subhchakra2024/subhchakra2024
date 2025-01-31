@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Subhankar Chakraborty
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning it.
-- 💞️  I’m looking to develop my knowledge in Python.
-- 📫 Reach me: subhankar8@gmail.com, Ph: +91 94339 60802
+Hi, I’m Subhankar Chakraborty. Mechanical Engineer.
+More than 20 years of experience in ship detail design engineering.Expert in software like AutoCAD, Aveva Marine, Aveva E3D, and Cadmatic.
+
+I’m interested in Python. Want to develop macros used in Aveva software.
+I’m currently learning it.
+
+Reach me: subhankar8@gmail.com, Ph: +91 94339 60802
 
 
 <!---
